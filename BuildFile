@@ -1,11 +1,7 @@
 <use name=DataFormats/Common>
-<use name=DataFormats/TrackingRecHit>
-<use name=DataFormats/TrajectoryState>
 <use name=rootrflx>
+<use name=clhepheader>
 <export>
-  <use name=DataFormats/Common>
-  <use name=DataFormats/TrackingRecHit>
-  <use name=DataFormats/TrajectoryState>
   <lib name=DataFormatsTrajectorySeed>
 </export>
 
